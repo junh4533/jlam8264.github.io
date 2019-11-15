@@ -1,0 +1,65 @@
+body{
+    /* background: darkturquoise; */
+    background-image: url('https://cdn.cnn.com/cnnnext/dam/assets/180517114139-vivid-sydney-2016-2-full-169.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center; 
+    width: 100vw;
+    height: 100%;
+}
+
+.red_heading{
+    color: rgb(233, 241, 241);
+}
+
+#heading{
+    color: rgb(243, 245, 245);
+    font-size: 5em; 
+    font-family: 'Allura';
+}
+
+#Welcome{
+    font-size: 1em;
+    color: rgb(236, 245, 245);
+}
+
+.navbar{
+    background: darkslategray !important;
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+}
+#hero{
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Allura';
+}
+
+#bg{
+    width: 100vw;
+    height: 100vh;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTmqcmMlC5MW-4_HTQE7Lt0JGcuXtY-pRW9Gb81vb_UZPbl7a4&s");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#main_content{
+    position: absolute;
+    text-align: center;
+    color: rgb(193, 193, 214);
+    top: 50vh;
+}
+
+.tint{
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0,0,0,0.1);
+
+}
+
