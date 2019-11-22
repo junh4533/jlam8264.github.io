@@ -48,11 +48,16 @@ html,body{
     background-repeat: no-repeat;
 }
 
-#main_content{
+#main_content {
     position: absolute;
     text-align: center;
     color: rgb(193, 193, 214);
     top: 50vh;
+}
+
+#main_content h1{
+    font-family: allura;
+    font-size: 8em;
 }
 
 .tint{
