@@ -39,14 +39,7 @@ html,body{
     font-family: 'Allura';
 }
 
-#bg{
-    width: 100vw;
-    height: 100vh;
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTmqcmMlC5MW-4_HTQE7Lt0JGcuXtY-pRW9Gb81vb_UZPbl7a4&s");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-}
+
 
 #main_content {
     position: absolute;
